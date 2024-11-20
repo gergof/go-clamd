@@ -1,3 +1,3 @@
-module github.com/dutchcoders/go-clamd
+module github.com/gergof/go-clamd
 
 go 1.22.4
